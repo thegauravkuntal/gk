@@ -8,7 +8,7 @@
 //question no-2
 for(i=0;i<arr.length;i+=2){
     console.log(hello)
-}
+}  
 //time complexity =0(n)
 
 //question no-3
